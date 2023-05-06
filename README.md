@@ -19,11 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_seenu__2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_seenu__2310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saurabh dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabh-dwivedi-ab701b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21332631/saurabh-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
 <a href="https://fb.com/saurabh dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_seenu__2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_seenu__2310" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saurabh_dwivedi_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saurabh_dwivedi_23" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@saurabh_dwivedi_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saurabh_dwivedi_23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/seenu2310" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seenu2310" height="30" width="40" /></a>
 </p>
 
