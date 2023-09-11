@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C/C++ , DSA , MERN STACK**
+- 💬 Ask me about **C/C++ , DSA , MERN STACK , OOPS**
 
 - 📫 How to reach me **saurabhdwivedi2310@gmail.com**
 
