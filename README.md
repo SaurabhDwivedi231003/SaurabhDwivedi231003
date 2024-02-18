@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhdwivedi231003&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhdwivedi231003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhdwivedi231003" alt="saurabhdwivedi231003" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhdwivedi231003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Major Project**
 
@@ -38,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhdwivedi231003&" alt="saurabhdwivedi231003" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhdwivedi231003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
