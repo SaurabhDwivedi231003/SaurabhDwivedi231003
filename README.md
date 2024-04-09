@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Major Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **C/C++ , DSA , MERN STACK , OOPS**
+- 💬 Ask me about **C/C++ , DSA , FullStack -MERN , AWS ,DEVOPS**
 
 - 📫 How to reach me **saurabhdwivedi2310@gmail.com**
 
@@ -37,7 +37,6 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -69,24 +68,20 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
-   
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
     </a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
-     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
     <a href="https://appwrite.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
     </a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
+     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
