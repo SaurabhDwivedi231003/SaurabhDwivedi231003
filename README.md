@@ -28,15 +28,16 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
+     <a href="https://www.naukri.com/code360/profile/SaurabhDwivedi" target="blank">
+        <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="LeetCode" height="30" width="40" />
+    </a>
     <a href="https://leetcode.com/SAURABH_DWIVEDI_/" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
     </a>
-    <a href="https://www.naukri.com/code360/profile/SaurabhDwivedi" target="blank">
-        <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="LeetCode" height="30" width="40" />
-    </a>
+   
 </p>
 
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
