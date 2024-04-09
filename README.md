@@ -26,12 +26,10 @@
     <a href="https://fb.com/saurabh dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh dwivedi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Coding Profiles:</h3>
 <p align="left">
-     <a href="https://www.naukri.com/code360/profile/SaurabhDwivedi" target="blank">
+    <h3 align="left">Coding Profiles:</h3> <a href="https://www.naukri.com/code360/profile/SaurabhDwivedi" target="blank">
         <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="LeetCode" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/SAURABH_DWIVEDI_/" target="blank">
+    </a> <a href="https://leetcode.com/SAURABH_DWIVEDI_/" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
     </a>
    
