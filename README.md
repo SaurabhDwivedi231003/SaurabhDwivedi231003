@@ -32,7 +32,7 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
     </a>
     <a href="https://www.naukri.com/code360/profile/SaurabhDwivedi" target="blank">
-        Coding Ninja Profile
+        <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
 
