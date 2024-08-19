@@ -10,11 +10,10 @@
 
 - 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **C/C++ , DSA , FullStack -MERN , AWS ,DEVOPS**
+- 💬 Ask me about **C/C++ , DSA , FullStack - MERN , AWS ,DEVOPS**
 
 - 📫 How to reach me **saurabhdwivedi2310@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny and sarcastic too !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
